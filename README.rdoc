@@ -1,0 +1,5 @@
+== Static vs Dynamic Polymorphism
+
+An example of both static and dynamic polymorphism in C++.
+
+Static polymorphism is done using curiously recurring template pattern, while dynamic polymorphism is done with virtual functions.

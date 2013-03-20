@@ -34,6 +34,7 @@
 		20F404ED16FA22DE00502228 /* Static.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Static.h; sourceTree = "<group>"; };
 		20F404EF16FA22EB00502228 /* Dynamic.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Dynamic.cpp; sourceTree = "<group>"; };
 		20F404F016FA22EB00502228 /* Dynamic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dynamic.h; sourceTree = "<group>"; };
+		20F404F216FA2B6E00502228 /* README.rdoc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.rdoc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +51,7 @@
 		20F404D716FA220E00502228 = {
 			isa = PBXGroup;
 			children = (
+				20F404F216FA2B6E00502228 /* README.rdoc */,
 				20F404E216FA220E00502228 /* Static vs Dynamic Polymorphism */,
 				20F404E116FA220E00502228 /* Products */,
 			);
@@ -228,6 +230,7 @@
 				20F404EB16FA220E00502228 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
